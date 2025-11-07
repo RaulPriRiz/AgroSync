@@ -12,7 +12,8 @@ Porque permite que cualquiera use, modifique y distribuya el código, incluso en
 
 **Derechos que doy a otros**
 Con la Apache 2.0, otros pueden:
-Usar el software libremente, tanto en entornos personales como comerciales.
+
+-Usar el software libremente, tanto en entornos personales como comerciales.
 
 
 -Modificarlo, adaptarlo a sus necesidades y redistribuirlo.
@@ -26,7 +27,8 @@ Usar el software libremente, tanto en entornos personales como comerciales.
 
 
 **Limitaciones que impongo**
-Cualquiera que use mi código debe mantener mi aviso de copyright y la licencia original.
+
+-Cualquiera que use mi código debe mantener mi aviso de copyright y la licencia original.
 
 
 -No se puede utilizar mi nombre o el de mi empresa para promocionar versiones modificadas sin mi permiso.
